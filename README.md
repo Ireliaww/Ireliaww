@@ -47,17 +47,17 @@
 ## 🌟 Featured Projects
 
 ### 🔗 [SnapLink](https://github.com/Ireliaww/Comp_539_Project_Group1)  
-A production-ready URL shortener with full-stack architecture, featuring authentication, link analytics, and CI/CD deployment. Built with Vue 3, Spring Boot, and Google Bigtable.
+> A production-ready URL shortener with full-stack architecture, featuring authentication, link analytics, and CI/CD deployment. Built with Vue 3, Spring Boot, and Google Bigtable.
 
 ---
 
 ### 📘 [RiceBook](https://github.com/Ireliaww/RiceBook)  
-A mini social networking platform inspired by Facebook, supporting posts, comments, user profiles, and follow systems. Built using React, Redux Toolkit, and Node.js.
+> A mini social networking platform inspired by Facebook, supporting posts, comments, user profiles, and follow systems. Built using React, Redux Toolkit, and Node.js.
 
 ---
 
 ### 🖼️ [Multimodal Style Transfer](https://github.com/Ireliaww/COMP646-Project)  
-An AI system combining NLP and computer vision to generate stylized images from text prompts and input photos, powered by CLIP and Fast Style Transfer.
+> An AI system combining NLP and computer vision to generate stylized images from text prompts and input photos, powered by CLIP and Fast Style Transfer.
 
 ---
 
