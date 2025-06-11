@@ -32,7 +32,7 @@ Postman | VSCode | IntelliJ | GitHub Actions | Jupyter | Overleaf
 > A Facebook-like social platform built with React and Redux Toolkit.  
 > Implemented authentication, friend management, and post/comment features.
 
-### 🖼️ [Multimodal Text-Guided Style Transfer](https://github.com/your-username/COMP646-Multimodal-StyleTransfer)](https://github.com/Ireliaww/COMP646-Project)
+### 🖼️ [Multimodal Text-Guided Style Transfer](https://github.com/Ireliaww/COMP646-Project)
 > A multimodal framework that enables users to input an image and a natural language style description, then outputs a stylized image using CLIP-based style extraction and Stable Diffusion.
 
 **Key Features:**
