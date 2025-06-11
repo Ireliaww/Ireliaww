@@ -47,9 +47,8 @@ Postman | VSCode | IntelliJ | GitHub Actions | Jupyter | Overleaf
 ## 📫 Contact Me
 
 📮 Email: cw206@rice.edu  
-🌐 Website: [chenyuwang.dev](https://chenyuwang.dev) *(if you have one)*  
-📱 WeChat/微信: *(optional, if comfortable)*  
-🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+📱 WeChat:  NosTalGiaa_y
+🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/rice-eric-wang/)
 
 ---
 
