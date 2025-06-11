@@ -40,7 +40,7 @@ Postman | VSCode | IntelliJ | GitHub Actions | Jupyter | Overleaf
 
 ## 📈 GitHub Stats
 
-![Chenyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![Chenyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ireliaww&show_icons=true&theme=default)
 
 ---
 
