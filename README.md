@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chenyu Wang (王宸禹)
 
-🎓 Graduate Student @ Rice University  
+🎓 Graduate Student MCS @ Rice University  
 💻 Passionate about Full-Stack Development, AI, and System Design  
 📍 Currently based in Houston, TX / Open to global opportunities
 
