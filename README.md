@@ -25,12 +25,36 @@ Postman | VSCode | IntelliJ | GitHub Actions | Jupyter | Overleaf
 ## 🌟 Featured Projects
 
 ### 🔗 [SnapLink](https://github.com/Ireliaww/Comp_539_Project_Group1)
-> A URL shortener platform with custom aliases, built using Spring Boot and Vue.  
-> Includes CI/CD pipeline and Google Bigtable integration.
+> A scalable, full-stack URL shortener system built for production-grade reliability, incorporating user authentication, analytics, and DevOps automation.
+
+**Tech Stack:**
+- 🖥️ **Frontend:** Vue 3 with Pinia for state management and dynamic routing  
+- ⚙️ **Backend:** Java Spring Boot (RESTful APIs) with validation, token-based auth, and layered architecture  
+- 🗄️ **Database:** Google Bigtable (NoSQL) for high-throughput key-value storage  
+- 🚀 **CI/CD:** GitHub Actions for test + build + deploy, deployed via Heroku/Vercel  
+- 📈 **Features:** 
+  - Custom and auto-generated short links
+  - Expiration dates and visit tracking
+  - Secure token-based login/register
+  - Role-based access control for link management
+
+> _Designed with separation of concerns, high cohesion, and low coupling in mind — SnapLink is more than just a side project, it’s a complete engineering exercise._
 
 ### 📘 [RiceBook](https://github.com/Ireliaww/RiceBook)  
-> A Facebook-like social platform built with React and Redux Toolkit.  
-> Implemented authentication, friend management, and post/comment features.
+> A React-based mini social media app that mimics core Facebook features, supporting post threads, comments, profile management, and friend systems.
+
+**Tech Stack:**
+- ⚛️ **Frontend:** React + Redux Toolkit + React Router  
+- 🖧 **Backend:** Node.js + Express (with mock APIs and JWT authentication)  
+- 📦 **State Management:** Redux slices with immutability and async logic (Thunk)  
+- ✅ **Testing:** Jasmine & Jest for component and reducer testing  
+- 🧩 **Features:** 
+  - Register/login/logout with input validation and error messages  
+  - User profile with avatar upload and ZIP-based geolocation  
+  - Newsfeed-style post creation, edit, comment, and following  
+  - Expand/collapse comment threads with state persistence
+
+> _Focused on component modularity and state-driven UI, RiceBook showcases frontend architecture in a collaborative SPA project.
 
 ### 🖼️ [Multimodal Text-Guided Style Transfer](https://github.com/Ireliaww/COMP646-Project)
 > A multimodal framework that enables users to input an image and a natural language style description, then outputs a stylized image using CLIP-based style extraction and Stable Diffusion.
