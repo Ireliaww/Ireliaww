@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Chenyu Wang (王晨宇)
 
-<!--
-**Ireliaww/Ireliaww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate Student @ Rice University  
+💻 Passionate about Full-Stack Development, AI, and System Design  
+📍 Currently based in Houston, TX / Open to global opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+**Languages:**  
+Java | Python | JavaScript | TypeScript | C++ | SQL  
+
+**Frameworks & Libraries:**  
+React | Vue | Redux Toolkit | Node.js | Spring Boot | Express | PyTorch | TensorFlow
+
+**Databases & DevOps:**  
+MySQL | MongoDB | Google Bigtable | Redis | Git | Docker | CI/CD | Heroku | Vercel
+
+**Tools:**  
+Postman | VSCode | IntelliJ | GitHub Actions | Jupyter | Overleaf  
+
+---
+
+## 🌟 Featured Projects
+
+### 🔗 [SnapLink](https://github.com/Ireliaww/SnapLink)  
+> A URL shortener platform with custom aliases, built using Spring Boot and Vue.  
+> Includes CI/CD pipeline and Google Bigtable integration.
+
+### 📘 [RiceBook](https://github.com/Ireliaww/RiceBook)  
+> A Facebook-like social platform built with React and Redux Toolkit.  
+> Implemented authentication, friend management, and post/comment features.
+
+### 🎮 [FaceRhythm Game](https://github.com/Ireliaww/FaceRhythm)  
+> A Pygame-based rhythm game with face-tracking controls and MVC architecture.  
+> Features real-time webcam interaction and beat synchronization.
+
+---
+
+## 📈 GitHub Stats
+
+![Chenyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+
+---
+
+## 📫 Contact Me
+
+📮 Email: cw206@rice.edu  
+🌐 Website: [chenyuwang.dev](https://chenyuwang.dev) *(if you have one)*  
+📱 WeChat/微信: *(optional, if comfortable)*  
+🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+
+---
+
+_Thanks for visiting my GitHub!_ 😄
