@@ -24,7 +24,7 @@ Postman | VSCode | IntelliJ | GitHub Actions | Jupyter | Overleaf
 
 ## 🌟 Featured Projects
 
-### 🔗 [SnapLink](https://github.com/Ireliaww/SnapLink)  
+### 🔗 [SnapLink][(https://github.com/Ireliaww/SnapLink)](https://github.com/Ireliaww/Comp_539_Project_Group1)  
 > A URL shortener platform with custom aliases, built using Spring Boot and Vue.  
 > Includes CI/CD pipeline and Google Bigtable integration.
 
