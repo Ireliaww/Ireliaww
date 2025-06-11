@@ -48,7 +48,7 @@ Postman | VSCode | IntelliJ | GitHub Actions | Jupyter | Overleaf
 
 📮 Email: cw206@rice.edu  
 📱 WeChat:  NosTalGiaa_y
-🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/rice-eric-wang/)
+🔗 LinkedIn: [linkedin.com/in/rice-eric-wang/](https://www.linkedin.com/in/rice-eric-wang/)
 
 ---
 
