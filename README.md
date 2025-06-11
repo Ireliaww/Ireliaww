@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chenyu Wang (王晨宇)
+# 👋 Hi, I'm Chenyu Wang (王宸禹)
 
 🎓 Graduate Student @ Rice University  
 💻 Passionate about Full-Stack Development, AI, and System Design  
