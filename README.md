@@ -32,9 +32,17 @@ Postman | VSCode | IntelliJ | GitHub Actions | Jupyter | Overleaf
 > A Facebook-like social platform built with React and Redux Toolkit.  
 > Implemented authentication, friend management, and post/comment features.
 
-### 🎮 [FaceRhythm Game](https://github.com/Ireliaww/FaceRhythm)  
-> A Pygame-based rhythm game with face-tracking controls and MVC architecture.  
-> Features real-time webcam interaction and beat synchronization.
+### 🖼️ [Multimodal Text-Guided Style Transfer](https://github.com/your-username/COMP646-Multimodal-StyleTransfer)](https://github.com/Ireliaww/COMP646-Project)
+> A multimodal framework that enables users to input an image and a natural language style description, then outputs a stylized image using CLIP-based style extraction and Stable Diffusion.
+
+**Key Features:**
+- 🧠 **NLP + CV Fusion:** Fine-tuned CLIP model on 2,000 WikiArt paintings to understand art-historical styles and vocabulary  
+- 🎨 **Text-to-Style Generation:** Converts text prompts into style embeddings, which guide image generation through diffusion  
+- ⚡ **Fast Stylization:** Real-time feed-forward model using IP-Adapter for runtime style transfer without retraining  
+- 📊 **Results:** Achieved 0.72 average CLIP similarity score, 19% improvement over baselines, with ~25ms inference on GPU  
+- 🧪 **Architecture:** Combines VGG19-based AdaIN layers, CLIP-aligned attention maps, and per-style decoders
+
+> _"Post-Impressionist color palette with Expressionist brushwork"_ – this system can understand and generate stylized art accordingly.
 
 ---
 
