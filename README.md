@@ -8,52 +8,19 @@
 
 ## 🔧 Tech Stack
 
-### 🖥️ Languages
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,c,html,css,bash,md" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,c,html,css,bash,react,vue,redux,nextjs,tailwind,bootstrap&perline=15" />
   </a>
 </p>
-
-### ⚙️ Frontend
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,redux,nextjs,tailwind,bootstrap,vite,sass" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask,fastapi,pytorch,tensorflow,sklearn,mongodb,postgres,mysql,redis,firebase,supabase&perline=15" />
   </a>
 </p>
-
-### 🔙 Backend & Runtime
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask,fastapi,gradle,maven,npm" />
-  </a>
-</p>
-
-### 🤖 AI & Machine Learning
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-  </a>
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,heroku,netlify,git,github,githubactions,linux" />
-  </a>
-</p>
-
-### 🗄️ Databases
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase" />
-  </a>
-</p>
-
-### 🛠️ Tools & IDEs
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,vim,postman,figma,notion,obsidian,latex" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,git,github,githubactions,linux,vscode,idea,postman,figma,notion,obsidian&perline=15" />
   </a>
 </p>
 
@@ -103,7 +70,7 @@ flowchart LR
 
 ## 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ireliaww&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
@@ -111,15 +78,15 @@ flowchart LR
 
 ## 📫 Contact Me
 
-<p>
+<p align="center">
   <a href="mailto:cw206@rice.edu">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rice-eric-wang/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/Ireliaww">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
