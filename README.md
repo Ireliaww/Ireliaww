@@ -77,10 +77,6 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ireliaww&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ireliaww&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
 </p>
 
@@ -90,20 +86,26 @@ flowchart LR
 
 <p align="center">
   <a href="mailto:cw206@rice.edu">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-cw206@rice.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/rice-eric-wang/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-rice--eric--wang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/Ireliaww">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Ireliaww-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-📱 WeChat: NosTalGiaa_y
+<p align="center">
+  <img src="https://img.shields.io/badge/WeChat-NosTalGiaa__y-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" />
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ireliaww&style=flat-square&color=58A6FF" alt="Profile Views" />
+</p>
 
 _Thanks for visiting my GitHub!_ 😄
