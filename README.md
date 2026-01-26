@@ -52,10 +52,11 @@ flowchart LR
 
 ---
 
-### 🔗 [SnapLink](https://github.com/Ireliaww/Comp_539_Project_Group1)  
-> A production-ready URL shortener with full-stack architecture, featuring authentication, link analytics, and CI/CD deployment.
+### 🤖 [Multi-Mode AI Assistant](https://github.com/Ireliaww/AI-Agent)  
+> A powerful AI assistant powered by Gemini with dual capabilities: **Deep Research** for comprehensive information gathering and **Auto Coding** for solving programming problems with      
+self-healing debug loops. Features smart intent routing to automatically classify queries.
 
-**Tech Stack:** `Vue 3` `Spring Boot` `Google Bigtable` `Redis`
+**Tech Stack:** `Python` `Google Gemini` `MCP Protocol` `Rich CLI`
 
 ---
 
