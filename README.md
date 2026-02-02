@@ -35,13 +35,9 @@
 
 **Tech Stack:** `Google Gemini 2.5 Pro` `ChromaDB` `Gradio` `Python`
 
-```mermaid
-flowchart LR
-    A[📄 User Query] --> B[🔍 Retrieve Top-K Docs]
-    B --> C{Filter by Threshold}
-    C -->|Relevant| D[📝 Answer with Citations]
-    C -->|No Match| E[💡 Answer with General Knowledge]
-```
+<p align="center">
+  <img src="./project_flowchart.drawio.png" alt="RiceBook Architecture" width="800" />
+</p>
 
 ---
 
