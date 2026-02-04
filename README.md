@@ -28,6 +28,34 @@
 
 ## 🌟 Featured Projects
 
+### 🤖 [AI-Agent: Academic Paper Reproduction System](https://github.com/Ireliaww/AI-Agent)  
+> **Transform research papers into production-ready code with AI**  
+> 
+> An advanced multi-agent system powered by Google Gemini that automatically analyzes academic papers using RAG (Retrieval-Augmented Generation) and generates complete ML implementations. Features dual-mode research capabilities, intelligent task routing, and supports PyTorch/TensorFlow/JAX frameworks.
+
+**Key Features:**
+- 📄 **RAG-Enhanced Paper Analysis**: PDF parsing, ChromaDB indexing, semantic search
+- 🤖 **Dual-Mode Research Agent**: Paper analysis + general research capabilities  
+- 💻 **Auto Code Generation**: Complete ML projects with training scripts and documentation
+- 🎯 **Smart Orchestration**: LLM-based task classification and multi-agent coordination
+
+**Tech Stack:** `Python` `Google Gemini 2.5` `ChromaDB` `PyMuPDF` `arXiv API` `FastAPI` `Docker`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ireliaww/AI-Agent/main/images/paper_reproduction_architecture_v2.png" alt="AI-Agent Architecture" width="700" />
+</p>
+
+**Example Usage:**
+```bash
+You: "Reproduce Attention Is All You Need paper"
+# → Downloads PDF from arXiv
+# → Analyzes using RAG (ChromaDB + semantic search)
+# → Generates complete PyTorch implementation
+# → Creates training scripts, configs, and documentation
+```
+
+---
+
 ### 📚 [Local-RAG Document Q&A Assistant](https://github.com/Ireliaww/Local-RAG)
 > **[Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/Ireliaaaaaa/rag-document-qa)**
 >
@@ -35,24 +63,12 @@
 
 **Tech Stack:** `Google Gemini 2.5 Pro` `ChromaDB` `Gradio` `Python`
 
-<p align="center">
-  <img src="./project_flowchart.drawio.png" alt="RiceBook Architecture" width="800" />
-</p>
-
 ---
 
 ### 📖 [CET-4 Vocabulary Helper](https://github.com/Ireliaww/CET-4-Vocabulary-Helper)
 > A bilingual (Chinese/English) CET-4 vocabulary learning application with modern web app and WeChat Mini Program deployments. Features flip cards, dictation quizzes, AI-powered feedback, and learning statistics.
 
 **Tech Stack:** `React 19` `TypeScript` `Tailwind CSS` `Gemini API` `WeChat Mini Program`
-
----
-
-### 🤖 [Multi-Mode AI Assistant](https://github.com/Ireliaww/AI-Agent)  
-> A powerful AI assistant powered by Gemini with dual capabilities: **Deep Research** for comprehensive information gathering and **Auto Coding** for solving programming problems with      
-self-healing debug loops. Features smart intent routing to automatically classify queries.
-
-**Tech Stack:** `Python` `Google Gemini` `MCP Protocol` `Rich CLI`
 
 ---
 
